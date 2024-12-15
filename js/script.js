@@ -35,7 +35,7 @@ function reloadPage() {
 
 const orderNowButton = document.querySelector(".order-now");
 const whatsappIcon = document.querySelector(".whatsapp");
-const phoneNumber = "201080379224";
+const phoneNumber = "201012345678";
 const message = "عايز اطلب اوردر لو سمحت";
 const encodedMessage = encodeURIComponent(message);
 
